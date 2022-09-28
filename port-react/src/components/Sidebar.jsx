@@ -12,7 +12,7 @@ const Sidebar = () => {
     <h2> Desenvolvedor Jr</h2>
     <SocialNetworkContainer/>
     <InformationContainer />
-    <a href="./doc/01.pdf" className="btn">Download curriculo</a>
+    <a href="./public/01.pdf" className="btn">Download curriculo</a>
   </aside>
   );
 };
